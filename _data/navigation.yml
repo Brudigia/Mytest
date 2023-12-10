@@ -1,0 +1,16 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Blog
+  link: /blog.html
+- name: Staff
+  link: /staff.html
+- name: French pics
+  link: /pics.html
+- name: Warhammer games and ebooks
+  link: /warhammer.html
+- name: Black Cat Weekly
+  link: /bcw.html
+- name: DevSecOps Example
+  link: /dso.html
